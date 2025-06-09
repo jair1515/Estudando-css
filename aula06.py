@@ -1,3 +1,4 @@
 number1 = int(input('digite um número:')) 
 number2 = int(input('digite um número:')) 
-print('O resultado é' , number1 + number2) 
+s = number1 + number2
+print('A soma entre' , number1, 'e' , number2 , 'é' , s) 
